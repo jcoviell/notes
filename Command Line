@@ -1,0 +1,9 @@
+pwd = print working directory
+mkdir = make directory
+ls = list
+mv = move
+rm = delete a directory
+.. = directory above the one you are working in
+cp -r = copy recursively (i.e. with all contents of the directory and any directories below that)
+cd = move into another directory
+mv hello_world_backup hello_world = renames file from hello_world_backup to hello_world
